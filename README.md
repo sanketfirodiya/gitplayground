@@ -1,2 +1,2 @@
 # gitplayground
-A playground to mess with git
+A playground to mess with git.
